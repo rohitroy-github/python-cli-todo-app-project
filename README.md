@@ -1,1 +1,1 @@
-    
+This is a Python CLI Todo Application project. 
